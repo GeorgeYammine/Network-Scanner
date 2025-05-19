@@ -28,7 +28,7 @@ Clone this repository or download the script:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/network-scanner.git
+git clone 
 cd network-scanner
 Run the scanner:
 
